@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter';
+}
+
+.fa-location-dot{
+    color: #F55A5A;
+}
+
+.location{
+    color: #2B283A;
+}
+
+.main-container{
+    background-color: #FFFFFF;
+}
+
+.location-view{
+    color: #918E9B;
+}
+
+.location-title{
+    font-weight: bold;
+}
+
+.date{
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+.location-description{
+    font-size: 0.9rem;
+}
+
